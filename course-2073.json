@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "courseId": 2073,
+  "repository": "LearningOS/2026a-rcore-xisanlou",
+  "user": "xisanlou",
+  "totalScore": 500,
+  "chapters": {
+    "ch8": {
+      "points": "25/25",
+      "score": 100,
+      "commit": "dee35ab53331b35f15efb114cbf1f2f37cf64621"
+    }
+  },
+  "score": 100,
+  "upload": {
+    "status": "pending",
+    "runId": "43438137311",
+    "runAttempt": "1"
+  }
+}
